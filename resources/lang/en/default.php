@@ -4,8 +4,8 @@ return [
     'site_name'        => '丹鳳廢文社群',
     'site_title'       => '丹鳳廢文社群',
     'site_description' => '日常,告白,靠北 都在這裡',
-    'page_id'          => '#',
-    'page_name'        => '丹鳳廢文社群',
+    'page_id'          => '1587141578280715',
+    'page_name'        => '丹鳳社群',
     'fb_app_setting'   => [
         'default_graph_version' => 'v2.5',
     ],
