@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Kangxi Anonymous Publisher</title>
+		<title>Damn Fool SH publisher</title>
 
 		<link href='//cdn.jsdelivr.net/font-hack/2.015/css/hack.min.css' rel='stylesheet' type='text/css'>
 
