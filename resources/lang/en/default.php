@@ -1,15 +1,15 @@
 ﻿<?php
 
 return [
-    'site_name'        => 'Damn Fool SH shxxpost club',
-    'site_title'       => 'Damn Fool SH shxxpost club',
-    'site_description' => 'What are you thinking?',
+    'site_name'        => '丹鳳廢文社群',
+    'site_title'       => '丹鳳廢文社群',
+    'site_description' => '日常,告白,靠北 都在這裡',
     'page_id'          => '#',
-    'page_name'        => 'DamnFool',
+    'page_name'        => '丹鳳廢文社群',
     'fb_app_setting'   => [
         'default_graph_version' => 'v2.5',
     ],
-    'say_hello'        => 'Keep smile, there's a camera',
+    'say_hello'        => '錄影中 請微笑',
     'license'          => [
         'You agree not to bullying and to follow <a href="http://facebook.com/communitystandards" target="_blank">Facebook’s Community Standard</a>',
         'You will not bully, intimidate, harass any user, or post content that: is hate speech, threatening, or pornographic; incites violence; or contains nudity or graphic or gratuitous violence, otherwise, your post will be eliminate.',
