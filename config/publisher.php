@@ -10,8 +10,8 @@ return [
     | For login to http://yourdomain/admin, be sure to change the password.
     |
      */
-    'user'               => 'admin',
-    'password'           => 'secret',
+    'user'               => 'adminCTMm58f',
+    'password'           => 'Zx64__CyN4_k',
 
     /*
     |--------------------------------------------------------------------------
@@ -33,11 +33,11 @@ return [
     |
      */
     'fb_app_setting'     => [
-        'app_id'                => '',
-        'app_secret'            => '',
-        'default_graph_version' => 'v2.5',
+        'app_id'                => '252618148425379',
+        'app_secret'            => 'e1de40630e2a01132f499dfa4dcdfa13',
+        'default_graph_version' => 'v2.6',
     ],
-    'fb_page_token'      => '',
+    'fb_page_token'      => 'EAADlwT8ALqMBANQ44q6Qm1ncAyvekLJlThWUbAs87tmuzdLCIZCUlRXlfk3aa12DOJTHb5FsU6E3u4UCZAH18rnXHZBXYFHe92eBH5UiOiQIMtl5tb7G8GrNMh5MafGcvAG19TcMiN4dy4m48ZBTaSxZCfZB50GMEZD',
 
     /*
     |--------------------------------------------------------------------------
@@ -49,7 +49,7 @@ return [
     |   https://www.google.com/recaptcha/intro/index.html
     |
      */
-    'recaptcha_key'      => '',
-    'recaptcha_secret'   => '',
+    'recaptcha_key'      => '6Lfrv??R4TAAAAACEadAt3uBMYLyjzJqe8Th1zcFJP',
+    'recaptcha_secret'   => '6Lfrv??R4TAAAAAObBrSrbxQETTUro5tEE8tmo7KFe',
 
 ];
