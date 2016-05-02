@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 
 return [
     'go_to'                 => '前往',
@@ -11,9 +11,9 @@ return [
     'publish_license'       => '發文守則',
     'accept_license'        => '我詳細閱讀上述發文守則並同意遵守',
     'human_verify'          => '人類認證',
-    'submit'                => '送出匿名發文',
+    'submit'                => '送出匿名廢文',
     'processing'            => '處理中 ...',
-    'alert_content_empty'   => '請輸入發文內容',
+    'alert_content_empty'   => '有什麼新的事物?',
     'alert_accept_license'  => '您是否已詳細閱讀發文守則，並同意遵守？',
     'alert_human_verify'    => '你是機器人嗎？',
 ];

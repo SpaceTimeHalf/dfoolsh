@@ -11,7 +11,8 @@ return [
     ],
     'say_hello'        => '錄影中 請微笑',
     'license'          => [
-        'You agree not to bullying and to follow <a href="http://facebook.com/communitystandards" target="_blank">Facebook’s Community Standard</a>',
-        'You will not bully, intimidate, harass any user, or post content that: is hate speech, threatening, or pornographic; incites violence; or contains nudity or graphic or gratuitous violence, otherwise, your post will be eliminate.',
+        '當你勾選後，即代表您同意遵守 <a href="http://facebook.com/communitystandards" target="_blank">Facebook 社群使用規則</a>.',
+        '嚴禁發表任何罷凌內容、或有相關意圖之內容，違反將被刪除',
+        '嚴禁發表任何情色、暴力之相關內容，或有相關意圖之內容，違反將被刪除',
     ],
 ];
