@@ -1,5 +1,5 @@
 <?php
 
 return [
-    'message' => 'Maintenance.',
+    'message' => '系統維護中',
 ];
