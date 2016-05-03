@@ -5,9 +5,9 @@ class ImageController extends PublisherController
 
     public function __construct()
     {
-        $this->background_color = [230, 230, 230];
-        $this->text_color = [0, 0, 0];
-        $this->font = base_path('resources/font/BiauKai.ttf');
+        $this->background_color = [0, 0, 0];
+        $this->text_color = [255, 255, 255];
+        $this->font = base_path('resources/font/BiauKai.otf');
     }
 
     public function preview()
