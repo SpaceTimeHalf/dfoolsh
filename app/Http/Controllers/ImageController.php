@@ -7,7 +7,7 @@ class ImageController extends PublisherController
     {
         $this->background_color = [0, 0, 0];
         $this->text_color = [255, 255, 255];
-        $this->font = base_path('resources/font/BiauKai.ttf');
+        $this->font = base_path('resources/font/BiauKai.otf');
     }
 
     public function preview()
