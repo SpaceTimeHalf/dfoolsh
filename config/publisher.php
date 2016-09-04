@@ -37,7 +37,7 @@ return [
         'app_secret'            => 'e1de40630e2a01132f499dfa4dcdfa13',
         'default_graph_version' => 'v2.6',
     ],
-    'fb_page_token'      => 'EAADlwT8ALqMBADXpU3N4V6kUbkpCxjgWUSZB0UioGWRT8smZBJhuph1DchmKcqod7bOKTTOXo2jdiu0EdnZAAvW1suZCyZBhdOL8b8ZA2vShwqytAz3ozH9IaJ95buwfyoh7XfoDLgvHBYiXhBjkaN5ijBNnkx5BoZD',
+    'fb_page_token'      => 'EAADlwT8ALqMBAPMSVQ2VxZBz7rjbsXTyMQbxrZClQ1WitcmChf1WFEZAsg9DqxrlnpIKB2Ra9VQcYwQDSk5N1gZCivCGyrC4Ww92BqUZBwwB5Je7Bc2zEoW0vKvo9iqRzA826BkIfTmJcxdEXrdeC2SH1EtlYAhmi4UAbs8OpcgZDZD',
 
     /*
     |--------------------------------------------------------------------------
