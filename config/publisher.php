@@ -49,7 +49,7 @@ return [
     |   https://www.google.com/recaptcha/intro/index.html
     |
      */
-    'recaptcha_key'      => '6Le4jBAUAAAAAMYEG3eUgQmkp1pZXouDUqiCFxVh',
-    'recaptcha_secret'   => '6Le4jBAUAAAAANaljRFydzwdQz-ZUAOfpmYv4bUj',
+    'recaptcha_key'      => '6Lf1jRAUAAAAAHw6x59_qONkVOYgIM0KfGuAOstJ',
+    'recaptcha_secret'   => '6Lf1jRAUAAAAAHamJt3ihjR1sQ6PBLOlqXIhzpBD',
 
 ];
