@@ -37,7 +37,7 @@ return [
         'app_secret'            => 'e1de40630e2a01132f499dfa4dcdfa13',
         'default_graph_version' => 'v2.6',
     ],
-    'fb_page_token'      => 'EAADlwT8ALqMBAPMSVQ2VxZBz7rjbsXTyMQbxrZClQ1WitcmChf1WFEZAsg9DqxrlnpIKB2Ra9VQcYwQDSk5N1gZCivCGyrC4Ww92BqUZBwwB5Je7Bc2zEoW0vKvo9iqRzA826BkIfTmJcxdEXrdeC2SH1EtlYAhmi4UAbs8OpcgZDZD',
+    'fb_page_token'      => 'EAADlwT8ALqMBAEfUZAxZBFZA8Bm5xy3AA2GvYQV5F1YhjhZCkruSEMuBE13SkoJtWyEm8XaDaewCuV5PrtgDpFI69qOEb08sXFrtUNxQACYUWNU4RELks8prf9mnJDkYZAKUkHsm6ysi5ZChGmqn6r02maFcxFhgsjb9QN9fQQewZDZD',
 
     /*
     |--------------------------------------------------------------------------
@@ -49,7 +49,7 @@ return [
     |   https://www.google.com/recaptcha/intro/index.html
     |
      */
-    'recaptcha_key'      => '6Lfrv??R4TAAAAACEadAt3uBMYLyjzJqe8Th1zcFJP',
-    'recaptcha_secret'   => '6Lfrv??R4TAAAAAObBrSrbxQETTUro5tEE8tmo7KFe',
+    'recaptcha_key'      => '6Le4jBAUAAAAAMYEG3eUgQmkp1pZXouDUqiCFxVh',
+    'recaptcha_secret'   => '6Le4jBAUAAAAANaljRFydzwdQz-ZUAOfpmYv4bUj',
 
 ];
